@@ -108,3 +108,5 @@ The abstract protocol defined above is implemented over [HTTP/2](https://http2.g
 
 ## Flow Control
 gRPC inherits the flow control mechanisms in HTTP/2 and uses them to enable fine-grained control of the amount of memory used for buffering in-flight messages.
+
+blah blah blah
